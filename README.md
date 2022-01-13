@@ -34,4 +34,9 @@ If you find this repository useful in your research, please cite:
 @misc{shah2021maxmargin,
       title={Max-Margin Contrastive Learning}, 
       author={Anshul Shah and Suvrit Sra and Rama Chellappa and Anoop Cherian},
-      yea
+      year={2021},
+      eprint={2112.11450},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
