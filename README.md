@@ -4,7 +4,7 @@ This is a pytorch implementation for the paper Max-Margin Contrastive Learning a
 
 This repository is based on [SimCLR-pytorch](https://github.com/AndrewAtanov/simclr-pytorch). 
 
-[[`arXiv`](https://arxiv.org/abs/2112.11450)] [['Video']()]
+[[`arXiv`](https://arxiv.org/abs/2112.11450)] [[`Video`](https://www.youtube.com/watch?v=MEXxMOP73eE)]
 
 ## Set-up environment
 - `conda env create -f mmcl_env.yaml`
